@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+python-dotenv
+flask
+requests
+reportlab
+flask-limiter
+apscheduler
+waitress 
